@@ -1,0 +1,12 @@
+{
+  "name": "Scheduler",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerStorage": {
+      "Scheduler": {
+        "$path": "src"
+      }
+    }
+  }
+}
